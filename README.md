@@ -40,16 +40,24 @@ All dSites and dApps submitted to the dPack repository and made available on the
 * Must not be distributed under a licence specific to DWeb. The rights attached to the software must not depend on the           program being part of a DWeb-based system. So we will not distribute software for which DWeb has a "special" exemption         or right, and we will not put our own Software into DWeb and then refuse you the right to pass it on.
 * Must not contaminate other software licences.The licence must not place restrictions on other software that is distributed     along with it. For example, the licence must not insist that all other programmes distributed on the same medium be free       software.
 * May require source modifications to be distributed as patches. In some cases, software authors are happy for us to             distribute their software and modifications to their software, as long as the two are distributed separately, so that         people always have a copy of their pristine code. We are happy to respect this preference. However, the licence must           explicitly permit distribution of software built from modified source code.
-<br/>
+
+
+
 ## DWeb Documentation
 DWeb contains licensed and copyrighted works that are not application software. For example, the default DWeb installation includes documentation, images, logos, videos, firmware and other copyrighted material that was not created by Distributed Webs Projects, LLC. The [DWeb Governance](https://dwebs.io/governance) will make decisions on the inclusion of these works on a case-by-case basis, ensuring that these works do not restrict our ability to make DWeb available free of charge, make available developer resources to grow the DWeb with dSites and dApps and that you can continue to redistribute the DWeb.
 <br/>
+
 ## Software Installed By Default
-When you install certain software like DWeb's [dBrowser](https://dbrowser.io), you will typically install a complete web browsing environment. These applications, although the source code is not readily available for users, includes Dependencies that are automatically installed and needed for software like dBrowser to function properly. All of the Dependencies installed by default are free software. In addition, we install some "Software Performance and Tracking Software" (the "Software Performance Tracker"), that's used to track the performance of applications like dBrowser. It is up to the user on whether the Software Performance Tracker is enabled and can be disabled at any time. Although, the Software Performance Tracker is enabled by default. 
+
+When you install certain software like [dBrowser](https://dbrowser.io), will typically install a complete web browsing environment. Although the source code is not readily available for users, includes Dependencies that are automatically installed and needed for software like dBrowser to function properly, it is important to note the existence of these Dependencies. All of the Dependencies installed by default are free software. In addition, we install some "Software Performance and Tracking Software" (the "Software Performance Tracker"), that's used to track the performance of applications like dBrowser. It is up to the user on whether the Software Performance Tracker is enabled and can be disabled at any time. Although, the Software Performance Tracker is enabled by default. 
 <br/>
+
 ## Third-Party Software Credits & Attributes
+
 There are a number of third-party computer programs, software and dependencies used within dWeb Software. These credits and attributed are defined below, with a link to the license associated with these third-party computer programs, software and dependencies. 
+
 <br/>
+
 ### dwcrypto-browser
 **Copyright 2017 Mathias Buus & Emil Bay**<br/>
 **Copyright 2018 Distributed Webs Project (dwebs.io)**<br/>
@@ -65,8 +73,11 @@ There are a number of third-party computer programs, software and dependencies u
 **Copyright (c) 2018 Distributed Webs Project (dwebs.io)**<br/>
 [The MIT License (MIT)](LICENSE_MIT.md)<br/>
 <br/>
+
 ## DWeb License Terms
 These Distributed Web Project, LLC. terms will be governed by and construed in accordance with the laws of Wyoming, USA, without regard to conflicts of law rules. The United Nations Convention on Contracts for the International Sale of Goods will not apply. The failure by either party to enforce any provision will not constitute a waiver. Any waiver, modification, or amendment of the Distributed Web Project, LLC. terms will be effective only if signed. If any provision is held to be unenforceable, it will be enforced to the maximum extent possible and will not diminish other provisions. Distributed Web Project, LLC. may make changes to these terms from time to time. When these changes are made, Distributed Webs Project, LLC. will make a new copy of the terms available at www.dwebs.io/legal/license. You understand and agree that if you use the Software after the date on which the terms have changed, Distributed Webs Project, LLC. will treat your use as acceptance of the updated terms. You agree that Distributed Webs Project, LLC. may provide you with notices, including those regarding changes to the terms, by postings on www.dwebs.io/legal/license. This and the Terms of Use at www.dwebs.io/legal/tou are Distributed Webs Project, LLC's complete and exclusive understanding with you regarding your use of the Software as an end user.
+
 <br/>
+
 ## Licensing Credits
 This license was created by combining several licenses from [Ubuntu](https://www.ubuntu.com/licensing) and [BitTorrent](https://www.bittorrent.com/legal/eula). Most things have been revised from these agreements but to stay in compliance with laws within the United States, it is important to credit both of these documents.
