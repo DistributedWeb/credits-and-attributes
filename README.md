@@ -1,5 +1,5 @@
 # DWeb License Agreement
-Distributed Web  is a collection of thousands of computer programs and documents created by a range of individuals, teams and companies. Each of these programs may come under a different licence. This licence policy describes the process that we follow in determining which software will be included by default DWeb-based software.
+Distributed Web (the "dWeb") is a collection of thousands of computer programs and documents created by a range of individuals, teams and companies. Each of these programs may come under a different licence. This licence policy describes the process that we follow in determining which software will be included by default DWeb-based software.
 <br/><br/>
 Copyright licensing and trademarks are two different areas of law, and we consider them separately in DWeb-based software. The following policy applies only to copyright licences. We evaluate trademarks on a case-by-case basis.
 <br/><br/>
