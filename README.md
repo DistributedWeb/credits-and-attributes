@@ -1,21 +1,21 @@
 # DWeb License Agreement
 Distributed Web  is a collection of thousands of computer programs and documents created by a range of individuals, teams and companies. Each of these programs may come under a different licence. This licence policy describes the process that we follow in determining which software will be included by default DWeb-based software.
-<br/>
+<br/><br/>
 Copyright licensing and trademarks are two different areas of law, and we consider them separately in DWeb-based software. The following policy applies only to copyright licences. We evaluate trademarks on a case-by-case basis.
-<br/>
+<br/><br/>
 By accepting this agreement or by installing any dWeb-related software, like dPack, dFTP, dBrowser or other software offered by or on behalf of Distributed Webs Project, LLC. (the "Software") or by clicking "Install" or similar language, you agree to the following terms, notwithstanding anything to the contrary in this agreement.
 <br/>
 ## DWeb Software Categories
 The thousands of software packages used to created DWeb and available on the DWeb network are organized into three key groups or components: native, universal and third-party. Software is published in one of these components based on whether or not it meets our free software philosophy, and the level of support we can provide for it. In addition, software may be published for DWeb software packages or as "DPacks" (a "dPack" or "dPacks") in the distributed and peer-to-peer "DPack Repository" (the "dPack Repo"), in which case licenses are determined by the dPack publisher and documented in the dPack Repo at [https://dpacks.io](https://dpacks.io).
 <br/>
 The "DWeb License Agreement" (the "License") addresses the software that you will find in native, third-party and universal categories. Although, the "DWeb Support Team" (the "Support Team") only supports software that is found within the native and universal categories.
-<br/>
+<br/><br/>
 **Universally-categorized DWeb software** ("Universal Software") is defined as software that was created by a third-party but either modified, merged, published, distributed and/or sublicensed by Distributed Webs Project, LLC. and included, offered and/or sold by Distributed Webs Project, LLC.
-<br/>
+<br/><br/>
 **Natively-categorized DWeb software** ("Native Software") is defined as software that was either modified or created on a completely custom basis by Distributed Webs Project, LLC.
-<br/>
+<br/><br/>
 **Third Party-categorized DWeb software** ("Third Party Software") is defined as software that was created by a third party, is needed as either a software dependency, has been modified or renamed for use in DWeb software or is offered as separate software for developers who are developing "Distributed Websites" ("dSites") or "Distributed Applications" ("dApps") that reside on the "Distributed Web" (the "dWeb"). 
-<br/>
+<br/><br/>
 ## DWeb Software Dependencies 
 "DWeb Software Dependencies" (a "Depedency" or "Dependencies") are software libraries used within DWeb-based software that are required for dWeb's software to function properly. Instead of recreating the wheel, like most software, we have packaged small, yet very important libraries with DWeb software to create the best possible user experience and in some cases user interfaces. These dependencies carry their own licenses and are attributed to the original authors, when necessary, wherever that software is stored. If the software itself is simply carried as a dependency and isn't stored in a "Public Repository" (a "Repo") that is owned or operated by Distributed Webs Project, LLC., then it not considered as a supported software and will not be supported by our Support Team. 
 <br/>
