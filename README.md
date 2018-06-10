@@ -8,6 +8,7 @@ By accepting this agreement or by installing any dWeb-related software, like dPa
 ## DWeb Software Categories
 The thousands of software packages used to created DWeb and available on the DWeb network are organized into three key groups or components: native, universal and third-party. Software is published in one of these components based on whether or not it meets our free software philosophy, and the level of support we can provide for it. In addition, software may be published for DWeb software packages or as "DPacks" (a "dPack" or "dPacks") in the distributed and peer-to-peer "DPack Repository" (the "dPack Repo"), in which case licenses are determined by the dPack publisher and documented in the dPack Repo at [https://dpacks.io](https://dpacks.io).
 <br/>
+<br/>
 The "DWeb License Agreement" (the "License") addresses the software that you will find in native, third-party and universal categories. Although, the "DWeb Support Team" (the "Support Team") only supports software that is found within the native and universal categories.
 <br/><br/>
 **Universally-categorized DWeb software** ("Universal Software") is defined as software that was created by a third-party but either modified, merged, published, distributed and/or sublicensed by Distributed Webs Project, LLC. and included, offered and/or sold by Distributed Webs Project, LLC.
