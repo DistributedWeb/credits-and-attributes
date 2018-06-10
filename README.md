@@ -1,4 +1,6 @@
-# credits-and-attributes
+# dWeb License Agreement
+
+
 Repository For Credits and Attributes For Distributed Web Projects
 
 ## dwcrypto-browser
