@@ -60,18 +60,28 @@ There are a number of third-party computer programs, software and dependencies u
 <br/>
 
 ### dwcrypto-browser
-**Copyright 2017 Mathias Buus & Emil Bay**<br/>
-**Copyright 2018 Distributed Webs Project (dwebs.io)**<br/>
+**Copyright © 2017 Mathias Buus & Emil Bay**<br/>
+**Copyright © 2018 Distributed Webs Project (dwebs.io)**<br/>
 [The MIT License (MIT)](LICENSE_MIT.md)<br/>
 <br/>
 ### dws-merkle 
-**Copyright (c) 2015 Mathias Buus**<br/>
-**Copyright (c) 2018 Distributed Webs Project (dwebs.io)**<br/>
+**Copyright © 2015 Mathias Buus**<br/>
+**Copyright © 2018 Distributed Webs Project (dwebs.io)**<br/>
 [The MIT License (MIT)](LICENSE_MIT.md)<br/> 
 <br/>
 ### dpack 
-**Copyright (c) 2015 Mathias Buus**<br/>
-**Copyright (c) 2018 Distributed Webs Project (dwebs.io)**<br/>
+**Copyright © 2015 Mathias Buus**<br/>
+**Copyright © 2018 Distributed Webs Project (dwebs.io)**<br/>
+[The MIT License (MIT)](LICENSE_MIT.md)<br/>
+<br/>
+### dweb-dns 
+**Copyright © 2018 Paul Frazee**<br/>
+**Copyright © 2018 Distributed Webs Project (dwebs.io)**<br/>
+[The MIT License (MIT)](LICENSE_MIT.md)<br/>
+<br/>
+### dweb-resolve 
+**Copyright © 2017 Joe Hand**<br/>
+**Copyright © 2018 Distributed Webs Project**<br/>
 [The MIT License (MIT)](LICENSE_MIT.md)<br/>
 <br/>
 
